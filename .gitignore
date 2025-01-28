@@ -10,6 +10,9 @@
 # Devel::Cover
 cover_db/
 
+# Output file
+package_map.json
+
 # Devel::NYTProf
 nytprof.out
 
